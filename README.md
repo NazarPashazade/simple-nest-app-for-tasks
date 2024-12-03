@@ -1,4 +1,4 @@
-# xm-task
+# company-tasks
 Main Tech Stack --> Nest.js | Typescript 
 
 
